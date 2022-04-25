@@ -1,0 +1,2 @@
+# hexoBlogFIles
+for hexo files.
